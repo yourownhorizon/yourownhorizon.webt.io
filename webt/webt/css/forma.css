@@ -1,0 +1,13 @@
+.window{
+    display: block;
+    position: fixed; /* Абсолютное позиционирование */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+    background: linear-gradient(to left,#ccd1e3,#e4e7f0);
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(113, 150, 231);
+    border-radius: 10px;  
+}

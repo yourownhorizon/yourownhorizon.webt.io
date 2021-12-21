@@ -1,0 +1,219 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  height: 150px;    
+  background-color: #ffffff;
+  margin-bottom: 0px;   
+  text-align: right;
+}
+  h1
+  {
+   font-family: 'Roboto', sans-serif;
+   color: darkblue;
+ }
+ h1.header-title {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  text-align: right;
+  padding-right: 400px;
+  padding-top: 150px;
+ }
+
+ h3.header-title {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  text-align: right;
+  padding-right: 430px;
+  padding-top: 24px;
+ }
+
+  h2 {
+    font-family: 'Arial', sans-serif; /* Гарнитура текста */ 
+    font-size: 150%; /* Размер шрифта в процентах */
+    padding-top: 7%; /* Поле сверху */
+    padding-right: 2%; /* Поле справа */
+   } 
+  a {
+    text-decoration: none; /* Убираем подчёркивание */
+    color: brown;
+
+   }
+
+   .leftpic {
+    padding: 5px;
+    float: left; /* Выравнивание по правому краю */
+   }
+#header2 {
+  background-image: url(../img/shapka2.jpg);
+  height: 400px;
+}
+
+p {
+  font-size: 18pt; /* Размер шрифта в пунктах */ 
+ }
+
+#footer2 {
+    /*text-align: center;*/
+    position: float; /* Фиксированное положение */
+    /* left: 0; bottom: 0; /* Левый нижний угол */
+    text-align: center; /* Выравнивание по центру */
+    padding: 5px; /* Поля вокруг текста */
+    background: #4063c4; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+    }
+
+    #competencies {
+      background-image: url(../img/shapka2.jpg);
+    }
+
+    p.prosto-text {
+      font-family: 'Roboto', sans-serif;
+      color: rgb(21, 21, 37);
+      font-size: 18px;
+      display: flex;
+      padding-left: 20px;
+    }  
+
+h1.article-title {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(21, 21, 37);
+  font-size: 30px;
+  padding-left: 20px;
+  }
+
+  .wraper {
+    max-width: 1280px;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .imggg {
+    margin: 6px;
+  }
+
+  .proga {
+    max-width: 1280px;
+    margin: 0px auto;
+    background-color: rgb(21, 21, 37);
+  }
+
+  h1.proga {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    }
+
+    p.proga {
+      font-family: 'Roboto', sans-serif;
+      color: rgb(255, 255, 255);
+      font-size: 18px;
+      text-align: center;
+      word-spacing: 20px;
+      padding: 25px;
+    }  
+
+    .img2 {
+      margin:10px 20px 10px 20px; 
+    }
+    
+    .uslugi {
+      padding: 25px;
+      max-width: 1230px;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+    }
+
+    p.lorem {
+      font-family: 'Roboto', sans-serif;
+      color: rgb(255, 255, 255);
+      font-size: 18px;
+      text-align: left;
+      padding: 25px;
+      max-width: 1230px;
+    }  
+
+    .portfolio {
+      max-width: 1280px;
+      margin: 0px auto;
+        
+    }
+
+    h1.portfolio {
+      font-family: 'Roboto', sans-serif;
+      color: rgb(21, 21, 37);
+      font-size: 20px;
+      padding-left: 200px;
+      }
+
+      p.portfolio-text {
+        font-family: 'Roboto', sans-serif;
+        color: rgb(21, 21, 37);
+        font-size: 18px;
+        padding-left: 0px;
+      }  
+
+      .contacts 
+      {
+        display: flex;
+        justify-content: space-around;
+        font-family: 'Roboto', sans-serif;
+        color: rgb(21, 21, 37);
+        text-align: center;
+        }
+        .h5 {
+          border-radius: 20px;
+          border: 5px solid #4063c4;
+          padding: 30px;
+        }
+
+        .contacts2 
+        {
+          border-radius: 80px;
+          border: 0px solid #4063c4;
+          padding: 50px;
+          width: 350px;
+          margin-left: 60px;
+          margin-bottom: 20px;
+          box-shadow: inset 0px 0px 5px 5px #4063c4;
+          /* display: flex;
+          flex-direction: column;
+          justify-content: flex-start;
+          display: grid;
+          grid-template-columns: 200px;
+          box-sizing: border-box;
+          font-family: 'Roboto', sans-serif;
+          color: rgb(21, 21, 37);
+          text-align: left;
+          border-radius: 20px;
+          border: 5px solid #4063c4;
+          padding: 30px; */
+          }
+          .contacts3
+        {
+          border-radius: 8px;
+          border: 2px solid #4063c4;
+          background-color: rgb(255, 255, 255);
+          padding: 5px;
+          width: 150px;
+        }
+
+        
+      
+
+        
+        
+
+
+
+
+
+  
